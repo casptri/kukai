@@ -1,0 +1,30 @@
+site_name: Kukai
+site_url: https://example.com/
+repo_name: casptri/kukai
+repo_url: https://github.com/casptri/kukai
+
+nav:
+  - Home: index.md
+  - Format: format.md
+  - Cli: cli.md
+  - API: 
+    - api/core.md
+    - api/engine.md
+    - api/context.md
+markdown_extensions:
+  - mkdocs-click
+theme:
+  name: material
+  features:
+  - navigation.expand
+  - search.highlight
+  - search.sugges
+plugins:
+  - search
+  - mkdocstrings:
+      handlers:
+        python:
+          options:
+            show_submodules: true
+
+
