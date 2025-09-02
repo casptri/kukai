@@ -26,4 +26,4 @@ by you, as defined in the MIT license, shall be licensed as above, without any a
 conditions.
 
 [license-shield]: https://img.shields.io/github/license/casptri/kukai.svg?style=for-the-badge
-[license-url]: https://github.com/casptri/kukai/blob/master/LICENSE.txt
+[license-url]: https://github.com/casptri/kukai/blob/main/LICENSE
