@@ -1,5 +1,6 @@
 [![PyPI](https://img.shields.io/pypi/v/kukai.svg)](https://pypi.python.org/pypi/kukai)
-[![MIT License][license-shield]][license-url]
+![License](https://img.shields.io/github/license/casptri/kukai)
+
 
 # Kukai
 
@@ -24,6 +25,3 @@ kukai is licensed under the MIT license ([LICENSE](https://github.com/casptri/ku
 Unless you explicitly state otherwise, any contribution intentionally submitted for inclusion in kukai
 by you, as defined in the MIT license, shall be licensed as above, without any additional terms or
 conditions.
-
-[license-shield]: https://img.shields.io/github/license/casptri/kukai.svg?style=for-the-badge
-[license-url]: https://github.com/casptri/kukai/blob/main/LICENSE
