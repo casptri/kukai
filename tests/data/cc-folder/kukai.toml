@@ -1,0 +1,12 @@
+[kukai.repo]
+engine = "cc"
+group = "cc"
+tags = ["cc","tests"]
+
+[[kukai.repo.mapping]]
+name = "cc-0"
+tags = ["test"]
+
+[[kukai.repo.mapping]]
+name = "cc-1"
+tags = ["something"]

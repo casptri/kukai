@@ -1,0 +1,7 @@
+[data]
+template = "cc-1"
+name = "{{cookiecutter.project_name}}"
+slug = "{{cookiecutter.project_slug}}"
+author = "{{cookiecutter.author}}"
+
+
