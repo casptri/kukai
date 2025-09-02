@@ -8,7 +8,7 @@ Manage and generate your templates with a command-line utility.
 
 - [Documentation]()
 - [GitHub](https://github.com/casptri/kukai)
-- [PyPi]()
+- [PyPi](https://pypi.org/project/kukai/)
 - [Licence (MIT)](https://github.com/casptri/kukai/blob/main/LICENSE)
 
 ## Installation
